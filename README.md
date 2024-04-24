@@ -39,7 +39,7 @@ A continuación se muestran algunos ejemplos de uso del conversor de tasas de ca
 Si deseas contribuir al proyecto, sigue estos pasos:
 
 1. Haz un fork del repositorio.
-2. Clona tu fork: `git clone https://github.com/TU_USUARIO/conversor-tasas-cambio.git`.
+2. Clona tu fork: `git clone https://github.com/carlosdm121/challengeone-java-backend-convertidordemoneda`.
 3. Crea una nueva rama: `git checkout -b nueva-funcionalidad`.
 4. Realiza tus cambios y haz commits: `git commit -am 'Agrega una nueva funcionalidad'`.
 5. Sube tus cambios: `git push origin nueva-funcionalidad`.
@@ -49,4 +49,4 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 
 Para más información, contáctanos en [gmail](mailto:crlosdmartinez121@gmail.com).
 
-CREADO POR CARLOS DANIEL MARTINEZ (DanMDev)
+CREADO POR CARLOS DANIEL MARTINEZ (DanMDev) - Alumno One - Alura Latam - 2024
