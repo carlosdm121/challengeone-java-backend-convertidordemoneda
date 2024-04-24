@@ -32,7 +32,9 @@ Para utilizar el conversor de tasas de cambio, sigue estos pasos:
 A continuación se muestran algunos ejemplos de uso del conversor de tasas de cambio:
 
 ![Ejemplo de Uso 1](https://github.com/carlosdm121/challengeone-java-backend-convertidordemoneda/blob/main/imagenes/9.jpg)
-![Ejemplo de Uso 2](images/ejemplo2.png)
+![Ejemplo de Uso 2](https://github.com/carlosdm121/challengeone-java-backend-convertidordemoneda/blob/main/imagenes/10.jpg)
+![Ejemplo de Uso 2](https://github.com/carlosdm121/challengeone-java-backend-convertidordemoneda/blob/main/imagenes/11.jpg)
+![Ejemplo de Uso 2](https://github.com/carlosdm121/challengeone-java-backend-convertidordemoneda/blob/main/imagenes/12.jpg)
 
 ## Contribución
 
